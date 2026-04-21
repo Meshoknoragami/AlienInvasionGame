@@ -42,7 +42,7 @@ Defend Earth from descending alien fleets, rack up points, and survive increasin
 ### Step-by-Step
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/alien-invasion.git
+git clone https://github.com/Meshoknoragami/AlienInvasionGame.git
 cd alien-invasion
 
 # 2. Install dependencies
